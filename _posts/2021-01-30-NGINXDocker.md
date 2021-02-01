@@ -2,14 +2,14 @@
 typora-copy-images-to: ../myassets/img
 typora-root-url: ../
 layout: post
-title:  "Docker"
-date:   2021-01-29 02:40:01 +0100
+title:  "Docker NGINX"
+date:   2021-01-30 02:40:01 +0100
 categories: PePS
 ---
 
        Diego Camañ                     Docker NGINX                            PePS   
 
-#                                                DOCKER
+#                                                DOCKER NGINX 
 
 
 
