@@ -58,7 +58,7 @@ volumes:
     db_data: {}
 ```
 
-Aquí se puede descargar:  [docker-compose.yml](../YAMaLo/WordPress/docker-compose.yml) 
+Aquí se puede descargar:  [docker-compose.yml](/YAMaLo/WordPress/docker-compose.yml) 
 
 A continuación ejecutaremos `docker-compose up -d` para descargar las imágenes WordPress y MySQL necesarias y crear sus instancias relacionadas. La información creada en WordPress se almacenará en MySQL en el volumen `db_data` y ahí dentro en la base de datos que hemos llamado `wordpress`
 
