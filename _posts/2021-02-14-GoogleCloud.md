@@ -67,9 +67,7 @@ utilizamos
 npm install express
 ```
 
-
-
-que crea el archivo `package.json`donde se guardan las dependencias (como express) y secuencias de comandos (scripts como  "start": "node server.js")
+que crea el archivo [`package.json`](https://github.com/dicabel/GoogleCloud/blob/main/package.json) donde se guardan las dependencias (como express) y secuencias de comandos (scripts como  "start": "node server.js")
 
 ![GoogleCloud3 package.json](/myassets/img/GoogleCloud3 package.json.png)
 
@@ -97,7 +95,7 @@ Comprobamos que podemos verlo en el navegador en `http://localhost:8080`
 
 
 
-Vamos a subirla a Google Cloud. Para ello necesitamos un archivo `app.yaml`que especifique la configuración en el entorno del servicio App Engine de Google.
+Vamos a subirla a Google Cloud. Para ello necesitamos un archivo  [`app.yaml`](https://github.com/dicabel/GoogleCloud/blob/main/app.yaml) especifique la configuración en el entorno del servicio App Engine de Google.
 
 Lo único que ha de contener en nuestro caso es
 
@@ -123,7 +121,9 @@ la podremos ver
 
 ![GoogleCloud8 lo vemos en google](/myassets/img/GoogleCloud8 lo vemos en google.png)
 
-Editamos el fichero `server.js`par que muestre "Hello from Ciberseguridad!!" (actualizamos repositorio GitHub como en ocasiones antreriores) y lo subimos de nuevo con `gloud app deploy`
+Editamos el fichero [`server.js`](https://github.com/dicabel/GoogleCloud/blob/main/package.json) para que muestre "Hello from Ciberseguridad!!" (actualizamos repositorio GitHub como en ocasiones antreriores) y lo subimos de nuevo con `gloud app deploy`
+
+
 
 Vemos el cambio
 
