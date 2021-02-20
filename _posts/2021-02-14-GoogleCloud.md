@@ -79,11 +79,9 @@ Así que creamos el script de inicio `server.js`
 
 Luego cambiaremos el mensaje que enviamos por 'Hello from Ciberseguridad'
 
-Para comprobarlo ejecutaremos `npm start`que ejecutará `server.js`. 
+Para comprobarlo ejecutaremos `npm start`que utilizará`server.js`. 
 
-
-
-![GoogleCloud6 localhost8080](/myassets/img/GoogleCloud6 localhost8080.png)
+![GoogleCloud5 npm start](/myassets/img/GoogleCloud5 npm start.png)
 
 
 
@@ -91,9 +89,7 @@ Comprobamos que podemos verlo en el navegador en `http://localhost:8080`
 
 
 
-![GoogleCloud5 npm start](/myassets/img/GoogleCloud5 npm start.png)
-
-
+![GoogleCloud6 localhost8080](/myassets/img/GoogleCloud6 localhost8080.png)
 
 Vamos a subirla a Google Cloud. Para ello necesitamos un archivo  [`app.yaml`](https://github.com/dicabel/GoogleCloud/blob/main/app.yaml) especifique la configuración en el entorno del servicio App Engine de Google.
 
