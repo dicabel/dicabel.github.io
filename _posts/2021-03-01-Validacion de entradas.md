@@ -108,7 +108,7 @@ Al ejecutarlo en el navegador si introducimos en el formulario
 
 Vemos que se ejecuta el script de "hackeado"
 
-
+![aut1a hackeado](/myassets/img/aut1a hackeado.png)
 
 Para mitigar XSS cambiaremos nuestro `post.php`
 
@@ -137,7 +137,7 @@ if ($_SERVER['REQUEST_METHOD'] == "GET") {
 
 de esta forma al introducir un script el código se convierte en simple texto
 
-
+![aut1b](/myassets/img/aut1b.png)
 
 # SESIONES
 
