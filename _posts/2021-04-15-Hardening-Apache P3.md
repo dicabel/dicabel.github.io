@@ -2,7 +2,7 @@
 typora-copy-images-to: ../myassets/img
 typora-root-url: ../
 layout: post
-title:  "Hardening Apache P3
+title:  "Hardening Apache P3"
 date:   2021-04-15 21:59:01 +0200
 categories: PePS
 ---
