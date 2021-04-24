@@ -31,6 +31,10 @@ Lab3: SQL injection UNION attack, determining the number of columns returned by 
 
 
 
-Lab4: SQL injection UNION attack, determining the number of columns returned by the query
+Lab4: SQL injection attack, querying the database type and version on Oracle
 
 ![Prueba4](/myassets/img/Prueba4.png)
+
+
+
+Lab5: Blind SQL injection with conditional responses using Burp Suite
