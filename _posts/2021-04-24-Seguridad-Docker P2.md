@@ -7,13 +7,13 @@ date:   2021-04-24 17:59:01 +0200
 categories: PePS
 ---
 
-       Diego Camañ                      Seguridad Docker P2                        PePS   
+       Diego Camañ                      Seguridad Docker P2                       PePS   
 
 #                                                                                       Seguridad Docker P2
 
  **Práctica 2** - Escaneo pasivo de vulnerabilidades
 
-Utilizaremos *trivi* para escanear Wordpress versión 5.5 sobre alpine
+Utilizaremos *trivy* para escanear Wordpress versión 5.5 sobre alpine
 
 
 
