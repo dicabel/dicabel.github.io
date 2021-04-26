@@ -27,4 +27,4 @@ https://github.com/dicabel/4dockerhub
 
 Así queda:
 
-![dockerHubGitHub](/G:/Mi unidad/PePS/DockerHub-GitHub/dockerHubGitHub.png)
+![dockerHubGitHub](/myassets/img/dockerHubGitHub.png)
