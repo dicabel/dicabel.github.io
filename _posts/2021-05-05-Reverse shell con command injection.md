@@ -2,12 +2,12 @@
 typora-copy-images-to: ../myassets/img
 typora-root-url: ../
 layout: post
-title:  "File upload"
+title:  "Reverse shell con command injection"
 date:   2021-05-05 19:09:01 +0200
 categories: PePS
 ---
 
-    Diego Camañ                 	   File upload 	                       PePS   
+    Diego Camañ              	   Reverse shell con command injection 	                       PePS   
 
 #                                                                                       Reverse shell con command injection
 
