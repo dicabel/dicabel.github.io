@@ -17,3 +17,6 @@ categories: PePS
 
 
 
+![file upload 2b prepeared connected](G:\Mi unidad\PePS\T4. Riesgos de seguridad en aplicaciones web\File Upload\file upload 2b prepeared connected.png)
+
+![file upload 3 connected](G:\Mi unidad\PePS\T4. Riesgos de seguridad en aplicaciones web\File Upload\file upload 3 connected.png)
